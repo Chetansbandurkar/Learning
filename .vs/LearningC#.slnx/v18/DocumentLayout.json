@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Async\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Async\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\Thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Async\\Thread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\Concurrenct.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Async\\Concurrenct.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Concurrenct.md",
+              "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\Concurrenct.md",
+              "RelativeDocumentMoniker": "Async\\Concurrenct.md",
+              "ToolTip": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\Concurrenct.md",
+              "RelativeToolTip": "Async\\Concurrenct.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-27T16:27:22.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thread.cs",
+              "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\Thread.cs",
+              "RelativeDocumentMoniker": "Async\\Thread.cs",
+              "ToolTip": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\Thread.cs",
+              "RelativeToolTip": "Async\\Thread.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T16:22:01.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\Task.cs",
+              "RelativeDocumentMoniker": "Async\\Task.cs",
+              "ToolTip": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\Task.cs",
+              "RelativeToolTip": "Async\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T16:18:53.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\program.cs",
+              "RelativeDocumentMoniker": "Async\\program.cs",
+              "ToolTip": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Async\\program.cs",
+              "RelativeToolTip": "Async\\program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T14:54:02.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
