@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\middlewarec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:middlewarec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\middlewarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:middlewarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\multicastdelegatewithvoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:multicastdelegatewithvoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,28 +31,12 @@
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:delegatewithexceptionhandeling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\middlewarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:middlewarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\middlewarec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:middlewarec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\requestdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:requestdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\httpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:httpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5B0BC2-7E08-E58C-6436-F53A2B87BA1D}|ConsoleApp1.csproj|c:\\users\\csban\\onedrive\\desktop\\learningc#\\middlewear\\consoleapp1\\middlewareb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DelegateWithExceptionHandeling.cs",
               "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\DelegateWithExceptionHandeling.cs",
               "RelativeDocumentMoniker": "DelegateWithExceptionHandeling.cs",
@@ -66,20 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MultiCastDelegateWithVoid.cs",
               "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\MultiCastDelegateWithVoid.cs",
               "RelativeDocumentMoniker": "MultiCastDelegateWithVoid.cs",
               "ToolTip": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\MultiCastDelegateWithVoid.cs",
               "RelativeToolTip": "MultiCastDelegateWithVoid.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-05T10:50:19.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MultiCastDelegateWithReturnType.cs",
               "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\MultiCastDelegateWithReturnType.cs",
               "RelativeDocumentMoniker": "MultiCastDelegateWithReturnType.cs",
@@ -97,13 +97,14 @@
               "RelativeDocumentMoniker": "MiddlewareA.cs",
               "ToolTip": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\MiddlewareA.cs",
               "RelativeToolTip": "MiddlewareA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T18:11:09.524Z"
+              "WhenOpened": "2026-07-02T18:11:09.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HttpContext.cs",
               "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\HttpContext.cs",
               "RelativeDocumentMoniker": "HttpContext.cs",
@@ -115,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "RequestDelegate.cs",
               "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\RequestDelegate.cs",
               "RelativeDocumentMoniker": "RequestDelegate.cs",
@@ -127,15 +128,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\Controller.cs",
               "RelativeDocumentMoniker": "Controller.cs",
               "ToolTip": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\Controller.cs",
               "RelativeToolTip": "Controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T18:11:35.841Z"
+              "WhenOpened": "2026-07-02T18:11:35.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -151,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MiddlewareC.cs",
               "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\MiddlewareC.cs",
               "RelativeDocumentMoniker": "MiddlewareC.cs",
@@ -159,19 +161,21 @@
               "RelativeToolTip": "MiddlewareC.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T18:09:59.64Z"
+              "WhenOpened": "2026-07-02T18:09:59.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\csban\\OneDrive\\Desktop\\LearningC#\\Middlewear\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T18:07:43.331Z"
+              "WhenOpened": "2026-07-02T18:07:43.331Z",
+              "EditorCaption": ""
             }
           ]
         }

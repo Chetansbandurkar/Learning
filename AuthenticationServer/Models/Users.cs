@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 public class User
 {
+    public Role Role { get; set; } = Role.User;
     public Guid Id { get; set; }
 
     [MaxLength(100)]
@@ -22,4 +23,7 @@ public class User
     public bool EmailVerified { get; set; } = false;
 
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+
+    // Navigation property for the related RefreshToken entities , One to many relationship as we one user can have many refresh tokens
+    public ICollection<RefreshToken> RefreshTokens { get; set; } = new List<RefreshToken>();
 }

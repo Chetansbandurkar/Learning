@@ -91,3 +91,21 @@ This is another important .NET concept.
 
 throw; preserves the original stack trace. ✅
 throw ex; resets the stack trace, making debugging harder. ❌
+
+----------------------------------------------------------------------------------------------------------------
+
+Claims Principle 
+
+https://stackoverflow.com/questions/32584074/whats-the-role-of-the-claimsprincipal-why-does-it-have-multiple-identities
+
+
+---------
+Authorzation Types 
+Role base , policy base , claim base 
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+
+![alt text](image-9.png)

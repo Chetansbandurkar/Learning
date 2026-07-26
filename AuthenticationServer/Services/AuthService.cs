@@ -8,9 +8,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AuthenticationServer.Services;
 
-public class AuthService(ApplicationDbContext context, IPasswordHasher passwordHasher) : IAuthService
+public class AuthService(ApplicationDbContext context, IPasswordHasher passwordHasher , IJwtService jwtService) : IAuthService
 {
     private readonly ApplicationDbContext _context = context;
+    private readonly IJwtService _jwtService = jwtService;
 
     public async Task RegisterAsync(RegisterRequest request)
     {
@@ -26,6 +27,7 @@ public class AuthService(ApplicationDbContext context, IPasswordHasher passwordH
             LastName = request.LastName,
             Email = request.Email,
             // Temporary (we'll hash it next)
+            Role = Role.User,
             PasswordHash = passwordHasher.Hash(request.Password)
         };
 
@@ -55,13 +57,14 @@ public class AuthService(ApplicationDbContext context, IPasswordHasher passwordH
             throw new InvalidCredentialsException("Invalid email or password.");
         }
         // Generate a token (for simplicity, we'll just return a dummy token here)
-        //var token = Guid.NewGuid().ToString();
+        var token = _jwtService.GenerateToken(user)  ;
         return new LoginResponse
         {
             UserId = user.Id,
             FirstName = user.FirstName,
             LastName = user.LastName,
-            Email = user.Email
+            Email = user.Email,
+            Token = token
         };
     }
 }

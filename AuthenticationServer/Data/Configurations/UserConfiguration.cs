@@ -19,6 +19,10 @@ namespace AuthenticationServer.Data.Configurations
             builder.HasIndex(u => u.Email)
                    .IsUnique();
 
+            builder.Property(u => u.Role)
+                   .HasConversion<string>()
+                   .HasMaxLength(20)
+                   .IsRequired();
         }
     }
 }

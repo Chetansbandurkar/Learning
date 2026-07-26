@@ -1,6 +1,8 @@
 ﻿using AuthenticationServer.DTO;
 using AuthenticationServer.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 namespace AuthenticationServer.Controllers
 {
     [Route("api/[controller]")]
@@ -9,6 +11,36 @@ namespace AuthenticationServer.Controllers
     {
 
         private readonly IAuthService _authService = authService;
+
+        [Authorize]
+        [HttpGet("claims")]
+        public IActionResult Claims()
+        {
+            return Ok(User.Claims.Select(c => new
+            {
+                c.Type,
+                c.Value
+            }));
+        }
+
+        [Authorize(Roles = "Admin")]
+        [HttpGet("admin")]
+        public IActionResult AdminOnly()
+        {
+            return Ok("Welcome Admin");
+        }
+
+        [Authorize]
+        [HttpGet("me")]
+        public IActionResult Me()
+        {
+            return Ok(new
+            {
+                User = HttpContext.User.Identity?.Name,
+                UserId = User.FindFirst(ClaimTypes.NameIdentifier)?.Value,
+                Email = User.FindFirst(ClaimTypes.Email)?.Value
+            });
+        }
 
         [HttpGet("hello")]
         public IActionResult Hello()
