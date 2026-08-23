@@ -1,4 +1,4 @@
-﻿namespace AuthenticationServer.Middleware
+﻿namespace AuthenticationServer.Exceptions
 {
     public class InvalidCredentialsException : Exception
     {

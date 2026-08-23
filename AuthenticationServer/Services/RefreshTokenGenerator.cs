@@ -1,6 +1,14 @@
-﻿namespace AuthenticationServer.Services
+﻿using System.Security.Cryptography;
+
+namespace AuthenticationServer.Services
 {
-    public class RefreshTokenGeneratorS
+    public class RefreshTokenGenerator : IRefreshTokenGenerator
     {
+        public string Generate()
+        {
+            var bytes = RandomNumberGenerator.GetBytes(64);
+
+            return Convert.ToBase64String(bytes);
+        }
     }
 }

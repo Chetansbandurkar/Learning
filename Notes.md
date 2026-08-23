@@ -109,3 +109,9 @@ Role base , policy base , claim base
 
 
 ![alt text](image-9.png)
+
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+
+. GetSection("Jwt")What it does: It searches the configuration data for a specific branch or "block" and isolates it.What it returns: An IConfigurationSection object.The Concept: Think of your appsettings.json file as a tree with branches. GetSection cuts off a specific branch (like the "Jwt" branch) and ignores everything else (like "Logging" or "ConnectionStrings"). It does not convert data types; it just isolates that specific chunk of text and keys.2. .Get<JwtSettings>()What it does: It performs Data Binding (deserialization). It takes the isolated text block from GetSection and automatically copies the values into a new instance of your C# class.What it returns: A strongly-typed C# object (in your case, an instance of JwtSettings).The Concept: It looks at the properties in your class (e.g., Issuer, Audience), finds matching keys in the JSON section, converts the text into the correct C# types (strings, integers, booleans), and populates the object.

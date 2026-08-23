@@ -18,6 +18,10 @@ namespace AuthenticationServer.Data.Configurations
                    .WithMany(u => u.RefreshTokens)
                    .HasForeignKey(rt => rt.UserId)
                    .OnDelete(DeleteBehavior.Cascade);
+
+            builder.Property(rt => rt.RowVersion)
+                   .IsRowVersion()
+                   .IsConcurrencyToken();
         }
     }
 }

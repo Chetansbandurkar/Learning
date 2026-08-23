@@ -6,6 +6,8 @@ using System.ComponentModel.DataAnnotations;
 
 public class User
 {
+    public int FailedLoginAttempts { get; set; }
+    public DateTime? LockoutEnd { get; set; }
     public Role Role { get; set; } = Role.User;
     public Guid Id { get; set; }
 
@@ -26,4 +28,9 @@ public class User
 
     // Navigation property for the related RefreshToken entities , One to many relationship as we one user can have many refresh tokens
     public ICollection<RefreshToken> RefreshTokens { get; set; } = new List<RefreshToken>();
+    public ICollection<PasswordResetToken> PasswordResetTokens { get; set; }
+    = new List<PasswordResetToken>();
+
+    public ICollection<EmailVerificationToken> EmailVerificationTokens
+    { get; set; } = new List<EmailVerificationToken>();
 }

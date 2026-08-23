@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AuthenticationServer</name>
+    </assembly>
+    <members>
+        <member name="T:AuthenticationServer.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AuthenticationServer.Migrations.AddUserConfiguration">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddUserConfiguration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddUserConfiguration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddUserConfiguration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AuthenticationServer.Migrations.AddUserRole">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddUserRole.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddUserRole.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddUserRole.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AuthenticationServer.Migrations.AddRefreshTokens">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddRefreshTokens.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddRefreshTokens.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddRefreshTokens.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AuthenticationServer.Migrations.AddEmailVerificationTokens">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddEmailVerificationTokens.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddEmailVerificationTokens.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddEmailVerificationTokens.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AuthenticationServer.Migrations.AddAccountLockout">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddAccountLockout.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddAccountLockout.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddAccountLockout.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AuthenticationServer.Migrations.AddRefreshTokenRowVersion">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddRefreshTokenRowVersion.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddRefreshTokenRowVersion.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AuthenticationServer.Migrations.AddRefreshTokenRowVersion.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

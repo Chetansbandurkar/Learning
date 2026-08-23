@@ -22,4 +22,7 @@ public class RefreshToken
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
     public DateTime? RevokedAt { get; set; }
+
+    // Used by EF Core for optimistic concurrency
+    public byte[] RowVersion { get; set; } = [];
 }

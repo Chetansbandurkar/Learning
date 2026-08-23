@@ -168,3 +168,6 @@ C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0
 C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\AuthenticationServer.pdb
 C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\AuthenticationServer.genruntimeconfig.cache
 C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\ref\AuthenticationServer.dll
+C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\bin\Debug\net9.0\Resend.dll
+C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\bin\Debug\net9.0\AuthenticationServer.xml
+C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\AuthenticationServer.xml
