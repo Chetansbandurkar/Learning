@@ -161,7 +161,6 @@ C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0
 C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\staticwebassets.build.endpoints.json
 C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\swae.build.ex.cache
-C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\Authenti.ABDD6FFB.Up2Date
 C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\AuthenticationServer.dll
 C:\Users\csban\OneDrive\Desktop\LearningC#\AuthenticationServer\obj\Debug\net9.0\refint\AuthenticationServer.dll

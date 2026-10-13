@@ -95,3 +95,7 @@ dotnet add src/ECommerce.Infrastructure package Microsoft.EntityFrameworkCore
 dotnet add src/ECommerce.Infrastructure package Microsoft.EntityFrameworkCore.SqlServer
 dotnet add src/ECommerce.Infrastructure package Microsoft.EntityFrameworkCore.Design
 dotnet add src/ECommerce.Infrastructure package Microsoft.EntityFrameworkCore.Tools
+
+
+
+
